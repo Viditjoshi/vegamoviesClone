@@ -50,8 +50,6 @@ yarn start
 
 Open [http://localhost:3000/vegamovie](http://localhost:3000/vegamovie) with your browser to see the result.
 
-### Contact Me
-<p>Email: <a href="mailto:kkp785216@gmail.com">kkp785216@gmail.com</a></p>
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
